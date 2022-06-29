@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 from tkinter import *
 from tkinter import messagebox
-
+#Akshay
 
 class pixel(object):
     def __init__(self, x, y, width, height):

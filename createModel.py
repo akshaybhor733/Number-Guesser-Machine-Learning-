@@ -2,7 +2,6 @@ import keras
 import tensorflow as tf
 import matplotlib.pyplot as plt
 import numpy as np
-#Akshay
 
 mnist = tf.keras.datasets.mnist
 
